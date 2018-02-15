@@ -1,4 +1,4 @@
-var kittens = [
+var raccoons = [
   {
     "url": "http://www.flickr.com/photos/seanmolin/7028040701/",
     "title": "Little Low-Light Monsters (D800 @ ISO 25,600) by Sean Molin Photography, on Flickr",
