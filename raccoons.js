@@ -1,314 +1,326 @@
 var raccoons = [
   {
-    "url": "http://www.flickr.com/photos/seanmolin/7028040701/",
-    "title": "Little Low-Light Monsters (D800 @ ISO 25,600) by Sean Molin Photography, on Flickr",
-    "imageUrl": "http://farm8.staticflickr.com/7239/7028040701_6de179d6fb_b.jpg",
-    "imageAlt": "Little Low-Light Monsters (D800 @ ISO 25,600)"
+    "url": "https://www.flickr.com/photos/davrozs/3086649873/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3123/3086649873_9768998a9c_b.jpg",
+    "imageAlt": "Oso Flaco Resident 500mm hand held supported on bridge rail."
   },
   {
-    "url": "http://www.flickr.com/photos/merlijnhoek/3184818586/",
-    "title": "Muffin // Our new kitten by Merlijn Hoek, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3331/3184818586_4ff359c537_b.jpg",
-    "imageAlt": "Muffin // Our new kitten"
-  },
-  {
-    "url": "http://www.flickr.com/photos/merlijnhoek/2841785343/",
-    "title": "Crazy Kitten? // Nikkor 50mm 1.4 by Merlijn Hoek, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3033/2841785343_e166fb4396_b.jpg",
-    "imageAlt": "Crazy Kitten? // Nikkor 50mm 1.4"
-  },
-  {
-    "url": "http://www.flickr.com/photos/paolomargari/1992019542/",
-    "title": "...non fidarsi è meglio - my scared cat / gatto by Paolo Margari, on Flickr",
-    "imageUrl": "http://farm3.staticflickr.com/2306/1992019542_709ca81523_b.jpg",
-    "imageAlt": "...non fidarsi è meglio - my scared cat / gatto"
-  },
-  {
-    "url": "http://www.flickr.com/photos/difusa/135964682/",
-    "title": "Mel by Difusa, on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/49/135964682_5ddbf58cdd_b.jpg",
-    "imageAlt": "Mel"
-  },
-  {
-    "url": "http://www.flickr.com/photos/merlijnhoek/2826968159/",
-    "title": "Shetti // Nikkor 50mm 1.4 by Merlijn Hoek, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3063/2826968159_02de2d3771_b.jpg",
-    "imageAlt": "Shetti // Nikkor 50mm 1.4"
-  },
-  {
-    "url": "http://www.flickr.com/photos/aoa-/7295416372/",
-    "title": "Little kitty ♥ =^..^= ♥ by Viola &amp; Cats =^..^=, on Flickr",
-    "imageUrl": "http://farm9.staticflickr.com/8153/7295416372_988d3ed7cc_b.jpg",
-    "imageAlt": "Little kitty ♥ =^..^= ♥"
-  },
-  {
-    "url": "http://www.flickr.com/photos/dirigentens/4735888531/",
-    "title": "Geisha på fluff by Dirigentens, on Flickr",
-    "imageUrl": "http://farm5.staticflickr.com/4122/4735888531_5ee92b936a_b.jpg",
-    "imageAlt": "Geisha på fluff"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sergiu_bacioiu/3932052676/",
-    "title": "Meaw Meaw by Sergiu Bacioiu, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3456/3932052676_491d8956de_b.jpg",
-    "imageAlt": "Meaw Meaw"
-  },
-  {
-    "url": "http://www.flickr.com/photos/malingering/356400109/",
-    "title": "Run Zumi! Run like the wind! by Malingering, on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/145/356400109_35eae35f53.jpg",
-    "imageAlt": "Run Zumi! Run like the wind!"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sensual_shadows_photography/160031380/",
-    "title": "Put Me Down. I Am Not Finished Being Cute Yet ! by Sensual Shadows Photography, on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/44/160031380_8de071151c_b.jpg",
-    "imageAlt": "Put Me Down. I Am Not Finished Being Cute Yet !"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sergiu_bacioiu/3930657923/",
-    "title": "Meaw by Sergiu Bacioiu, on Flickr",
-    "imageUrl": "http://farm3.staticflickr.com/2470/3930657923_0b0f00f833_b.jpg",
-    "imageAlt": "Meaw"
-  },
-  {
-    "url": "http://www.flickr.com/photos/aoa-/7352069826/",
-    "title": "Happy Caturday to all friends ! by Viola &amp; Cats =^..^=, on Flickr",
-    "imageUrl": "http://farm8.staticflickr.com/7078/7352069826_1e667da00b_b.jpg",
-    "imageAlt": "Happy Caturday to all friends !"
-  },
-  {
-    "url": "http://www.flickr.com/photos/jurvetson/7189326712/",
-    "title": "Put your paws up! by jurvetson, on Flickr",
-    "imageUrl": "http://farm8.staticflickr.com/7081/7189326712_1f206e8f11_b.jpg",
-    "imageAlt": "Put your paws up!"
-  },
-  {
-    "url": "http://www.flickr.com/photos/ametxa/2233228436/",
-    "title": "Yes, I did a cat once! by Ametxa, on Flickr",
-    "imageUrl": "http://farm3.staticflickr.com/2214/2233228436_d8e25f9079_b.jpg",
-    "imageAlt": "Yes, I did a cat once!"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sergiu_bacioiu/4327564714/",
-    "title": "Meow Man by Sergiu Bacioiu, on Flickr",
-    "imageUrl": "http://farm3.staticflickr.com/2720/4327564714_ab1c8abe25_b.jpg",
-    "imageAlt": "Meow Man"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sergiu_bacioiu/3953686888/",
-    "title": "Crazy Meow ~ RazorMonkey Magazine Cover ~ by Sergiu Bacioiu, on Flickr",
-    "imageUrl": "http://farm3.staticflickr.com/2542/3953686888_6bb1c91e09_b.jpg",
-    "imageAlt": "Crazy Meow ~ RazorMonkey Magazine Cover ~"
-  },
-  {
-    "url": "http://www.flickr.com/photos/fazen/9079179/",
-    "title": "studying... by fazen, on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/8/9079179_781bb2abcd_b.jpg",
-    "imageAlt": "studying..."
-  },
-  {
-    "url": "http://www.flickr.com/photos/merlijnhoek/2789604490/",
-    "title": "Our new kitten Shetti by Merlijn Hoek, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3260/2789604490_066dd1c786_b.jpg",
-    "imageAlt": "Our new kitten Shetti"
-  },
-  {
-    "url": "http://www.flickr.com/photos/aoa-/7469498942/",
-    "title": "Happy Caturday to all Friends ! by Viola &amp; Cats =^..^=, on Flickr",
-    "imageUrl": "http://farm8.staticflickr.com/7249/7469498942_0512058ce1_b.jpg",
-    "imageAlt": "Happy Caturday to all Friends !"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sergiu_bacioiu/4394955222/",
-    "title": "Isolated cat on white background by Sergiu Bacioiu, on Flickr",
-    "imageUrl": "http://farm5.staticflickr.com/4032/4394955222_07c30ed3d6_b.jpg",
-    "imageAlt": "Isolated cat on white background"
-  },
-  {
-    "url": "http://www.flickr.com/photos/merlijnhoek/2791728529/",
-    "title": "Shetti sleeping by Merlijn Hoek, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3194/2791728529_423fa9aeb6_b.jpg",
-    "imageAlt": "Shetti sleeping"
-  },
-  {
-    "url": "http://www.flickr.com/photos/sicoactiva/93396555/",
-    "title": "me pareció ver un lindo gatito! by sicoactiva, on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/28/93396555_f197042b50_o.jpg",
-    "imageAlt": "me pareció ver un lindo gatito!"
-  },
-  {
-    "url": "http://www.flickr.com/photos/fourdoxn/1339194561/",
-    "title": "Furry Friday Kitten by Four Doxn, on Flickr",
-    "imageUrl": "http://farm2.staticflickr.com/1087/1339194561_9cffa33335_b.jpg",
-    "imageAlt": "Furry Friday Kitten"
-  },
-  {
-    "url": "http://www.flickr.com/photos/isolano/423026153/",
-    "title": "It's time to explore by isolano., on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/153/423026153_2f99a650f5_b.jpg",
-    "imageAlt": "It's time to explore"
-  },
-  {
-    "url": "http://www.flickr.com/photos/bhenry/140596381/",
-    "title": "Aw Shucks by Barb Henry, on Flickr",
-    "imageUrl": "http://farm1.staticflickr.com/48/140596381_a771092e3f_o.jpg",
-    "imageAlt": "Aw Shucks"
-  },
-  {
-    "url": "http://www.flickr.com/photos/aoa-/7138386271/",
-    "title": "♥❤♥ Kittens ( =';'= ) by Viola &amp; Cats =^..^=, on Flickr",
-    "imageUrl": "http://farm8.staticflickr.com/7232/7138386271_4b016cce76_b.jpg",
-    "imageAlt": "♥❤♥ Kittens ( =';'= )"
-  },
-  {
-    "url": "http://www.flickr.com/photos/gloson/4595147656/",
-    "title": "Face to face in our dreams by Gloson, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3399/4595147656_b209cc1f9f_b.jpg",
-    "imageAlt": "Face to face in our dreams"
-  },
-  {
-    "url": "http://www.flickr.com/photos/damselfly58/4480845281/",
-    "title": "tilly by damselfly58 - moved yay!, on Flickr",
-    "imageUrl": "http://farm5.staticflickr.com/4030/4480845281_9016786cc3_o.jpg",
-    "imageAlt": "tilly"
-  },
-  {
-    "url": "http://www.flickr.com/photos/tambako/6124292403/",
-    "title": "Cute savannah kitten III by Tambako the Jaguar, on Flickr",
-    "imageUrl": "http://farm7.staticflickr.com/6065/6124292403_7aa9b11846_b.jpg",
-    "imageAlt": "Cute savannah kitten III"
-  },
-  {
-    "url": "http://www.flickr.com/photos/merlijnhoek/5214405108/",
-    "title": "Sinas loves the camera // red and white 6 weeks old kitten by Merlijn Hoek, on Flickr",
-    "imageUrl": "http://farm5.staticflickr.com/4087/5214405108_712a61dff3_b.jpg",
-    "imageAlt": "Sinas loves the camera // red and white 6 weeks old kitten"
-  },
-  {
-    "url": "http://www.flickr.com/photos/lokidude_pics/3876407782/",
-    "title": "Ummmmmm.. Nom Nom Nom by lokidude99, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3546/3876407782_a6b95265f0_b.jpg",
-    "imageAlt": "Ummmmmm.. Nom Nom Nom"
-  },
-  {
-    "url": "http://www.flickr.com/photos/geoftheref/3227445097/",
-    "title": "Yin & Yang by geoftheref, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3093/3227445097_aecc2f6f87_b.jpg",
-    "imageAlt": "Yin & Yang"
-  },
-  {
-    "url": "http://www.wendywilkersonphotography.com/Daily-Photos/Daily-Photos-2009/9114877_B8KXtz#!i=686463109&k=yBzsN&lb=1&s=A",
-    "title": "October 19, 2009 - Max  - Had the kittens out in the yard today playing with them.  They were soo cute!!!",
-    "imageUrl": "http://www.wendywilkersonphotography.com/Daily-Photos/Daily-Photos-2009/DSC4084edit/686463109_yBzsN-L.jpg",
-    "imageAlt": "October 19, 2009 - Max  - Had the kittens out in the yard today playing with them.  They were soo cute!!!"
-  },
-  {
-    "url": "http://www.lohrphoto.com/Photography/Honest-Critiques/16426338_3bdjDF#!i=1578008223&k=kvXrjsz&lb=1&s=A",
-    "title": "Our new job site has an old garage that is filled with a litter of kittens...  Best day of work EVER! !",
-    "imageUrl": "http://www.lohrphoto.com/Photography/Honest-Critiques/i-kvXrjsz/0/L/SEP6084-L.jpg",
-    "imageAlt": "Our new job site has an old garage that is filled with a litter of kittens...  Best day of work EVER! !"
-  },
-  {
-    "url": "http://beadzilla.smugmug.com/MyDailyPhotoJourney/BeadzillaPhotoCreations/15875155_xVHpBj#!i=1392710019&k=5SsL5Z9&lb=1&s=A",
-    "title": "153/365July 16, 2011. My Daily Photo Journey Happy sleeping ginger kitten - newly named Buster by his adoptive parents.  Special thanks to Robin and Dan for letting me turn my lens to their new arrivals. Note: more kitten pictures from today are already posted in my gallery of animal photos =)Walnut Creek, Californiaedits: minorstats: #73 of 83 photos taken today",
-    "imageUrl": "http://beadzilla.smugmug.com/MyDailyPhotoJourney/BeadzillaPhotoCreations/i-5SsL5Z9/0/L/7-16-11-073-Buster-L.jpg",
-    "imageAlt": "153/365July 16, 2011. My Daily Photo Journey Happy sleeping ginger kitten - newly named Buster by his adoptive parents.  Special thanks to Robin and Dan for letting me turn my lens to their new arrivals. Note: more kitten pictures from today are already posted in my gallery of animal photos =)Walnut Creek, Californiaedits: minorstats: #73 of 83 photos taken today"
-  },
-  {
-    "url": "http://studiobetts.smugmug.com/Photography/2009/9475156_zz9Nj9#!i=681033149&k=QBeLp&lb=1&s=A",
-    "title": "Cat",
-    "imageUrl": "http://studiobetts.smugmug.com/Photography/2009/DSCF2544/681033149_QBeLp-L.jpg",
-    "imageAlt": "Cat"
-  },
-  {
-    "url": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/9426914_pw6NH4#!i=632158278&k=BxTah&lb=1&s=A",
-    "title": "",
-    "imageUrl": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/Kittens-117a/632158278_BxTah-L.jpg",
+    "url": "https://www.flickr.com/photos/fbohac/6617770767/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm8.staticflickr.com/7033/6617770767_4fdc3a518c_b.jpg",
     "imageAlt": ""
   },
   {
-    "url": "http://psphotos.smugmug.com/Sherry-Shots/Fun-Stuff/Best-of-2008/7001069_P9QDdV#!i=329001105&k=WYXuF&lb=1&s=A",
-    "title": "Cotton at 6 weeks old.",
-    "imageUrl": "http://psphotos.smugmug.com/Sherry-Shots/Fun-Stuff/Best-of-2008/p7077900-b/329001105_WYXuF-L-3.jpg",
-    "imageAlt": "Cotton at 6 weeks old."
-  },
-  {
-    "url": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/9426914_pw6NH4#!i=632312540&k=snCYU&lb=1&s=A",
-    "title": "",
-    "imageUrl": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/Kittens-116/632312540_snCYU-L.jpg",
+    "url": "https://www.flickr.com/photos/zemoufette/4599523171/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm5.staticflickr.com/4048/4599523171_c3d9bbbd96_b.jpg",
     "imageAlt": ""
   },
   {
-    "url": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/9426914_pw6NH4#!i=631997350&k=bb7br&lb=1&s=A",
-    "title": "",
-    "imageUrl": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/Kittens-213/631997350_bb7br-L.jpg",
+    "url": "https://www.flickr.com/photos/lizadaly/3339069582/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3318/3339069582_f1fdd659d4_b.jpg",
+    "imageAlt": "Taken from my porch"
+  },
+  {
+    "url": "https://www.flickr.com/photos/rengber/8632627391/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm9.staticflickr.com/8522/8632627391_4bd958f569_k.jpg",
     "imageAlt": ""
   },
   {
-    "url": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/9426914_pw6NH4#!i=632311693&k=XaVN9&lb=1&s=A",
-    "title": "",
-    "imageUrl": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/Kittens-102a/632311693_XaVN9-L.jpg",
+    "url": "https://www.flickr.com/photos/n28307/8964810211/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm9.staticflickr.com/8126/8964810211_77d8bf94d3_k.jpg",
     "imageAlt": ""
   },
   {
-    "url": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/9426914_pw6NH4#!i=631991709&k=Bn2qo&lb=1&s=A",
-    "title": "",
-    "imageUrl": "http://www.jmcqueenphoto.com/Cats/The-Barn-Kittens/Kittens-128/631991709_Bn2qo-L.jpg",
+    "url": "https://www.flickr.com/photos/charmedhour/8627398539/",
+    "title": "Sleeping Raccoon",
+    "imageUrl": "https://farm9.staticflickr.com/8526/8627398539_1cd5bdc446_z.jpg",
+    "imageAlt": "Raccoon kit from Herrick Wildlife Rescue. Please check out www.facebook.com/HerrickWildlifeRescue for more pics and updates"
+  },
+  {
+    "url": "https://www.flickr.com/photos/rengber/8632628241/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm9.staticflickr.com/8120/8632628241_2b079ebaf9_k.jpg",
     "imageAlt": ""
   },
   {
-    "url": "http://www.mattpilsner.com/Pets/Dynamo/3048103_7sJTnt#!i=165966958&k=SG2xQ&lb=1&s=A",
-    "title": "",
-    "imageUrl": "http://www.mattpilsner.com/Pets/Dynamo/DSC02325/165966958_SG2xQ-L-2.jpg",
+    "url": "https://www.flickr.com/photos/29638108@N06/36842117894/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm5.staticflickr.com/4514/36842117894_ab4f5a3755_k.jpg",
     "imageAlt": ""
   },
   {
-    "url": "http://psphotos.smugmug.com/Sherry-Shots/Nature/Abby-Kittens/5051866_9sQ4ds#!i=313053854&k=dfCTF&lb=1&s=A",
-    "title": "Harry at 5 weeks old",
-    "imageUrl": "http://psphotos.smugmug.com/Sherry-Shots/Nature/Abby-Kittens/P6147479-b/313053854_dfCTF-L-2.jpg",
-    "imageAlt": "Harry at 5 weeks old"
+    "url": "https://www.flickr.com/photos/jude_the_obscure/2484864770/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm3.staticflickr.com/2190/2484864770_3dba508f7d_b.jpg",
+    "imageAlt": "North Quincy, MA."
   },
   {
-    "url": "http://romuald.smugmug.com/Nature-Natura/empty/1997168_m2qm6F#!i=102022589&k=u9wBN&lb=1&s=A",
-    "title": "Lonely kitten (Boruja Nowa, Poland).Samotny kotek (Boruja Nowa, Polska).",
-    "imageUrl": "http://romuald.smugmug.com/Nature-Natura/empty/DSC1425/102022589_u9wBN-L.jpg",
-    "imageAlt": "Lonely kitten (Boruja Nowa, Poland).Samotny kotek (Boruja Nowa, Polska)."
+    "url": "https://www.flickr.com/photos/joebeone/3846050087/",
+    "title": "raccoons!",
+    "imageUrl": "https://farm4.staticflickr.com/3436/3846050087_6aa637ea47_b.jpg",
+    "imageAlt": ""
   },
   {
-    "url": "http://www.carllengyel.com/Pets/Kittens-Cats/9711733_mNRP4V#!i=657756269&k=W5nxT&lb=1&s=A",
-    "title": "- Four black and gray tabby cat kittens.",
-    "imageUrl": "http://www.carllengyel.com/Pets/Kittens-Cats/2006Jun2Kittens/657756269_W5nxT-L-1.jpg",
-    "imageAlt": "- Four black and gray tabby cat kittens."
+    "url": "https://www.flickr.com/photos/lizadaly/3338240231/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3124/3338240231_45f0d25199_b.jpg",
+    "imageAlt": "Taken from my porch"
   },
   {
-    "url": "http://www.sharkbayte.com/Photography/2011-Daily-Photos/15280496_QJTL2X#!i=1381656376&k=5xTsnPJ&lb=1&s=A",
-    "title": "July 13, 2011-These are two of the kittens from a few days ago. Their mother moved all of them to the neighbor's house. Well that night we had a lot of rain, the next morning I found all four of the kittens back in my yard, inside a huge planter that was on it's side and off the ground, they are protected from the rain and the sun. The mother cat just amazes me.  Jasper my pup is not happy with the situation. (194:365)Thank you all so much for all the wonderful comments and response to my picture yesterday, it was overwhelming!",
-    "imageUrl": "http://www.sharkbayte.com/Photography/2011-Daily-Photos/i-5xTsnPJ/0/L/20110712-MG0024-Edit-L.jpg",
-    "imageAlt": "July 13, 2011-These are two of the kittens from a few days ago. Their mother moved all of them to the neighbor's house. Well that night we had a lot of rain, the next morning I found all four of the kittens back in my yard, inside a huge planter that was on it's side and off the ground, they are protected from the rain and the sun. The mother cat just amazes me.  Jasper my pup is not happy with the situation. (194:365)Thank you all so much for all the wonderful comments and response to my picture yesterday, it was overwhelming!"
+    "url": "https://www.flickr.com/photos/jgates513/34103022293/",
+    "title": "Pesky Raccoon",
+    "imageUrl": "https://farm5.staticflickr.com/4274/34103022293_f29d457273_k.jpg",
+    "imageAlt": ""
   },
   {
-    "url": "http://www.mattpilsner.com/Daily-Photos/Daily-Photos-2008/4108630_8FLxg7#!i=253292867&k=Lvsdo&lb=1&s=A",
-    "title": "Feb 11, 2008   (1 of 2)Here's Mia playing in a chair.  I had a small photo shoot with her yesterday.  She's pretty quick, so it's very hard to get good shots of her.  She also kept sliding off the chair, and I kept putting her back because I thought the dark chair went well with her fur.  You all must think I put the macro lens down for 2 days, but you would be wrong.  Yesterday's and Today's photo were taken with the Macro lens.  It's a sweet piece of glass.There are some more cute photos of Mia HERE.I'm off today, so It will be a 2 photo day.  The second photo is ",
-    "imageUrl": "http://www.mattpilsner.com/Daily-Photos/Daily-Photos-2008/IMG4619/253292867_Lvsdo-L-1.jpg",
-    "imageAlt": "Feb 11, 2008   (1 of 2)Here's Mia playing in a chair.  I had a small photo shoot with her yesterday.  She's pretty quick, so it's very hard to get good shots of her.  She also kept sliding off the chair, and I kept putting her back because I thought the dark chair went well with her fur.  You all must think I put the macro lens down for 2 days, but you would be wrong.  Yesterday's and Today's photo were taken with the Macro lens.  It's a sweet piece of glass.There are some more cute photos of Mia HERE.I'm off today, so It will be a 2 photo day.  The second photo is "
+    "url": "https://www.flickr.com/photos/sghsapp/15532594969/",
+    "title": "Raccoons",
+    "imageUrl": "https://farm4.staticflickr.com/3949/15532594969_5e8e3b311c_k.jpg",
+    "imageAlt": ""
   },
   {
-    "url": "http://www.flickr.com/photos/janewilliams/9301061275",
-    "title": "kittens (2) by Jane Williams, on Flickr",
-    "imageUrl": "http://farm3.staticflickr.com/2879/9301061275_0eb48db237_b.jpg",
-    "imageAlt": "Two orange tabby kittens playing in grass."
+    "url": "https://www.flickr.com/photos/joebeone/3846003077/",
+    "title": "raccoons!",
+    "imageUrl": "https://farm4.staticflickr.com/3473/3846003077_cba30fb89f_b.jpg",
+    "imageAlt": ""
   },
   {
-    "url": "http://www.flickr.com/photos/janewilliams/9301062563",
-    "title": "kittens (1) by Jane Williams, on Flickr",
-    "imageUrl": "http://farm6.staticflickr.com/5459/9301062563_05cfc00eef_b.jpg",
-    "imageAlt": "Two orange tabby kittens playing in grass."
+    "url": "https://www.flickr.com/photos/joebeone/3846828604/",
+    "title": "raccoons!",
+    "imageUrl": "https://farm4.staticflickr.com/3423/3846828604_bde439ecac_b.jpg",
+    "imageAlt": ""
   },
   {
-    "url": "http://www.flickr.com/photos/janewilliams/9301063123",
-    "title": "kittens (8) by Jane Williams, on Flickr",
-    "imageUrl": "http://farm4.staticflickr.com/3765/9301063123_0bac05c8ac_b.jpg",
-    "imageAlt": "Two orange tabby kittens playing in grass."
+    "url": "https://www.flickr.com/photos/davenport/5929634947/",
+    "title": "raccoon",
+    "imageUrl": "https://farm7.staticflickr.com/6006/5929634947_977a80e59b_b.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/bigcypressnps/31377495010/",
+    "title": "raccoon",
+    "imageUrl": "https://farm1.staticflickr.com/687/31377495010_faa279e200_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/29638108@N06/29743600244/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm6.staticflickr.com/5676/29743600244_57d2a8544c_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/29638108@N06/30257602252/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm9.staticflickr.com/8407/30257602252_e6c7d631f8_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/15016964@N02/5696245730/",
+    "title": "Northern raccoons",
+    "imageUrl": "https://farm3.staticflickr.com/2058/5696245730_9f5803bb95_b.jpg",
+    "imageAlt": "Northern raccoons - taken at Drusillas Park on 20th March 2011"
+  },
+  {
+    "url": "https://www.flickr.com/photos/harlequeen/6371172113/",
+    "title": "Peeking Raccoon",
+    "imageUrl": "https://farm7.staticflickr.com/6215/6371172113_907b7084e9_b.jpg",
+    "imageAlt": "A raccon doesn't want to come out despite the food awaiting."
+  },
+  {
+    "url": "https://www.flickr.com/photos/57777529@N02/5398249041/",
+    "title": "waschbär",
+    "imageUrl": "https://farm6.staticflickr.com/5218/5398249041_07c067da81_b.jpg",
+    "imageAlt": "raccoon"
+  },
+  {
+    "url": "https://www.flickr.com/photos/foqus/3431856374/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3322/3431856374_227f292957_b.jpg",
+    "imageAlt": "All full!"
+  },
+  {
+    "url": "https://www.flickr.com/photos/alexfiles/4940149018/",
+    "title": "Raccoon, digging",
+    "imageUrl": "https://farm5.staticflickr.com/4134/4940149018_7dcd51a8db_b.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/s-brickman/33104764552/",
+    "title": "Raccoon Dog",
+    "imageUrl": "https://farm1.staticflickr.com/464/33104764552_7824db7dc7_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/n28307/8966003582/",
+    "title": "Raccoon at Work",
+    "imageUrl": "https://farm4.staticflickr.com/3669/8966003582_f9fda68e8e_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/hagdorned/14655562836/",
+    "title": "raccoons",
+    "imageUrl": "https://farm3.staticflickr.com/2926/14655562836_25ba12385f_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/wandrus/4752531205/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm5.staticflickr.com/4135/4752531205_b7376abaec_b.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/r4vi/105370248/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm1.staticflickr.com/41/105370248_aa7253324d_z.jpg",
+    "imageAlt": "Raccoons at Newquay Zoo"
+  },
+  {
+    "url": "https://www.flickr.com/photos/kapkap/416390103/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm1.staticflickr.com/61/416390103_dd6d89f0b0_z.jpg",
+    "imageAlt": "A young raccoon was watching the people go by in Central Park, Upper West Side, NYC // 100mm @ 1/160 f3.6 ISO 100 RAW"
+  },
+  {
+    "url": "https://www.flickr.com/photos/54268887@N00/5056762195/",
+    "title": "Raccoon in the Canadian Rockies",
+    "imageUrl": "https://farm5.staticflickr.com/4113/5056762195_2ef373c66f_b.jpg",
+    "imageAlt": "Raccoon in the Canadian Rockies"
+  },
+  {
+    "url": "https://www.flickr.com/photos/15016964@N02/5662233691/",
+    "title": "Raccoon dog",
+    "imageUrl": "https://farm6.staticflickr.com/5308/5662233691_2144d2b058_b.jpg",
+    "imageAlt": "Raccoon dog - taken at Yorkshire Wildlife Park on 12th November 2010"
+  },
+  {
+    "url": "https://www.flickr.com/photos/cuatrok77/11418139024/",
+    "title": "RACCOONS",
+    "imageUrl": "https://farm3.staticflickr.com/2840/11418139024_1015b384ef_k.jpg",
+    "imageAlt": "(Procyon lotor) The raccoon , also known as American raccoon, is a medium-sized mammal native IN North America. The raccoon is the largest of the procyonid family, Its grayish coat mostly consists of dense underfur which insulates against cold weather. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American tribes. Raccoons are noted for their intelligence, with studies showing that they are able to remember the solution to tasks for up to three years."
+  },
+  {
+    "url": "https://www.flickr.com/photos/saffyw/8616477259/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm9.staticflickr.com/8101/8616477259_67c0e00874_k.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/mhodge/321700715/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm1.staticflickr.com/137/321700715_af57c8d72e_b.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/quinet/4372786073/",
+    "title": "Raccoons 3",
+    "imageUrl": "https://farm5.staticflickr.com/4030/4372786073_5fe80025a7_b.jpg",
+    "imageAlt": "Nighttime visitors"
+  },
+  {
+    "url": "https://www.flickr.com/photos/crossfirecw/65483342/",
+    "title": "Wetlands Raccoon",
+    "imageUrl": "https://farm1.staticflickr.com/34/65483342_789599ed35_b.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/57777529@N02/5398866974/",
+    "title": "waschbär",
+    "imageUrl": "https://farm6.staticflickr.com/5178/5398866974_d747f55e67_b.jpg",
+    "imageAlt": "raccon"
+  },
+  {
+    "url": "https://www.flickr.com/photos/cuatrok77/11404053496/",
+    "title": "RACCOONS",
+    "imageUrl": "https://farm6.staticflickr.com/5483/11404053496_c074839dd2_k.jpg",
+    "imageAlt": "(Procyon lotor) The raccoon , also known as American raccoon, is a medium-sized mammal native IN North America. The raccoon is the largest of the procyonid family, Its grayish coat mostly consists of dense underfur which insulates against cold weather. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American tribes. Raccoons are noted for their intelligence, with studies showing that they are able to remember the solution to tasks for up to three years."
+  },
+  {
+    "url": "https://www.flickr.com/photos/cuatrok77/11403926944/",
+    "title": "RACCOONS",
+    "imageUrl": "https://farm8.staticflickr.com/7349/11403926944_26a5aa71a3_k.jpg",
+    "imageAlt": "(Procyon lotor) The raccoon , also known as American raccoon, is a medium-sized mammal native IN North America. The raccoon is the largest of the procyonid family, Its grayish coat mostly consists of dense underfur which insulates against cold weather. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American tribes. Raccoons are noted for their intelligence, with studies showing that they are able to remember the solution to tasks for up to three years."
+  },
+  {
+    "url": "https://www.flickr.com/photos/cuatrok77/11404032594/",
+    "title": "RACCOONS",
+    "imageUrl": "https://farm4.staticflickr.com/3804/11404032594_b43ea7f5fe_k.jpg",
+    "imageAlt": "(Procyon lotor) The raccoon , also known as American raccoon, is a medium-sized mammal native IN North America. The raccoon is the largest of the procyonid family, Its grayish coat mostly consists of dense underfur which insulates against cold weather. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American tribes. Raccoons are noted for their intelligence, with studies showing that they are able to remember the solution to tasks for up to three years."
+  },
+  {
+    "url": "https://www.flickr.com/photos/cuatrok77/11403971515/",
+    "title": "RACCOONS",
+    "imageUrl": "https://farm4.staticflickr.com/3667/11403971515_b14f88aab2_k.jpg",
+    "imageAlt": "(Procyon lotor) The raccoon , also known as American raccoon, is a medium-sized mammal native IN North America. The raccoon is the largest of the procyonid family, Its grayish coat mostly consists of dense underfur which insulates against cold weather. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American tribes. Raccoons are noted for their intelligence, with studies showing that they are able to remember the solution to tasks for up to three years."
+  },
+  {
+    "url": "https://www.flickr.com/photos/57777529@N02/5398233689/",
+    "title": "waschbär",
+    "imageUrl": "https://farm6.staticflickr.com/5179/5398233689_cb5c6d4b04_b.jpg",
+    "imageAlt": "raccoon"
+  },
+  {
+    "url": "https://www.flickr.com/photos/harlequeen/9919092/",
+    "title": "cute pose",
+    "imageUrl": "https://farm1.staticflickr.com/8/9919092_5448bc8727_b.jpg",
+    "imageAlt": ""
+  },
+  {
+    "url": "https://www.flickr.com/photos/twobears2/32405712110/",
+    "title": "DSC_0024",
+    "imageUrl": "https://farm1.staticflickr.com/445/32405712110_647a7325d2_k.jpg",
+    "imageAlt": "Raccoon bandit raiding the kitty food again.."
+  },
+  {
+    "url": "https://www.flickr.com/photos/cuatrok77/11403946805/",
+    "title": "RACCOONS",
+    "imageUrl": "https://farm4.staticflickr.com/3700/11403946805_fe12decbf4_k.jpg",
+    "imageAlt": "(Procyon lotor) The raccoon , also known as American raccoon, is a medium-sized mammal native IN North America. The raccoon is the largest of the procyonid family, Its grayish coat mostly consists of dense underfur which insulates against cold weather. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American tribes. Raccoons are noted for their intelligence, with studies showing that they are able to remember the solution to tasks for up to three years."
+  },
+  {
+    "url": "https://www.flickr.com/photos/davrozs/2918161895/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3200/2918161895_6ace76b455_b.jpg",
+    "imageAlt": "Oso Flaco Resident"
+  },
+  {
+    "url": "https://www.flickr.com/photos/henriquev/16100340385/",
+    "title": "Raccoons",
+    "imageUrl": "https://farm8.staticflickr.com/7489/16100340385_256a1b951c_k.jpg",
+    "imageAlt": "Ayres Hotels @ Diamond Bar, CA."
+  },
+  {
+    "url": "https://www.flickr.com/photos/kpaulus/5282755269/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm6.staticflickr.com/5047/5282755269_1e6d3a4b8d_b.jpg",
+    "imageAlt": "Summerfield, Florida"
+  },
+  {
+    "url": "https://www.flickr.com/photos/armenws/4677260109/",
+    "title": "raccoon",
+    "imageUrl": "https://farm5.staticflickr.com/4044/4677260109_f8822c5965_b.jpg",
+    "imageAlt": "raccoon"
+  },
+  {
+    "url": "https://www.flickr.com/photos/jassen/2800369957/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3033/2800369957_0f336db82f_b.jpg",
+    "imageAlt": "An unexpected visitor."
+  }
+  {
+    "url": "https://www.flickr.com/photos/zemoufette/4599528693/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm2.staticflickr.com/1169/4599528693_ee67a6861e_b.jpg",
+    "imageAlt": "A raccoon, eating a piece of bread. They're pretty tame here... Probably not a good thing :/"
+  }
+  {
+    "url": "https://www.flickr.com/photos/lizadaly/3339069122/",
+    "title": "Raccoon",
+    "imageUrl": "https://farm4.staticflickr.com/3575/3339069122_508d9effb0_b.jpg",
+    "imageAlt": "Taken from my porch"
   }
 ];
