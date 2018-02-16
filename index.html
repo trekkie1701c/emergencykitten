@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <meta charset="utf-8">
-<title>Emergency Kitten!</title>
-<link rel="stylesheet" href="kittens.css">
+<title>Emergency Raccoon!</title>
+<link rel="stylesheet" href="raccoons.css">
 
 <script>
   window._gaq = [['_setAccount', 'UA-33711406-1'], ['_trackPageview']];
@@ -14,33 +14,36 @@
   }(document, 'script'));
 </script>
 
-<div id="putakitteninme" class="centered">
-    <noscript>There would normally be a kitten here, but you disabled JavaScript and killed it.</noscript>
+<div id="putaraccooninme" class="centered">
+    <noscript>There would normally be a raccoon here, but you disabled JavaScript and killed it.</noscript>
 </div>
 
 <p class="license centered">
     All photos are either under a <a href="http://creativecommons.org/licenses/">Creative Commons</a> license or were marked as shareable by their creators. Click on a photo to visit its original source.<br>
 
-    Comments? I'm <a href="https://twitter.com/yaypie/">@yaypie</a> on Twitter. Complaints? Maybe you need <a href="./">another kitten</a>.
-</p>
+    Comments? I'm <a href="https://twitter.com/trekkie1701c/">@trekkie1701c</a> on Twitter. Complaints? Maybe you need <a href="./">another raccoon</a>.
 
-<a href="https://github.com/rgrove/emergencykitten/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+  Forked from <a href="https://github.com/rgrove/emergencykitten/">Emergency Kitten!</a>
+  
+  </p>
 
-<script src="kittens.js"></script>
+<a href="https://github.com/trekkie1701c/emergencyraccoon/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
+<script src="raccoon.js"></script>
 <script>
 (function (win, doc) {
-    var kitten = kittens[Math.floor(Math.random() * kittens.length)];
+    var kitten = raccoons[Math.floor(Math.random() * raccoons.length)];
     var image  = doc.createElement('img');
     var link   = doc.createElement('a');
 
-    link.className = 'kitten';
-    link.href      = kitten.url;
+    link.className = 'raccoon';
+    link.href      = raccoon.url;
 
-    image.alt       = kitten.imageAlt;
-    image.className = 'kitten-image';
-    image.src       = kitten.imageUrl;
+    image.alt       = raccoon.imageAlt;
+    image.className = 'raccoon-image';
+    image.src       = raccoon.imageUrl;
 
     link.appendChild(image);
-    doc.getElementById('putakitteninme').appendChild(link);
+    doc.getElementById('putaraccooninme').appendChild(link);
 }(this, document));
 </script>
