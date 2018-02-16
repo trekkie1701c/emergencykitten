@@ -310,17 +310,17 @@ var raccoons = [
     "title": "Raccoon",
     "imageUrl": "https://farm4.staticflickr.com/3033/2800369957_0f336db82f_b.jpg",
     "imageAlt": "An unexpected visitor."
-  }
+  },
   {
     "url": "https://www.flickr.com/photos/zemoufette/4599528693/",
     "title": "Raccoon",
     "imageUrl": "https://farm2.staticflickr.com/1169/4599528693_ee67a6861e_b.jpg",
     "imageAlt": "A raccoon, eating a piece of bread. They're pretty tame here... Probably not a good thing :/"
-  }
+  },
   {
     "url": "https://www.flickr.com/photos/lizadaly/3339069122/",
     "title": "Raccoon",
     "imageUrl": "https://farm4.staticflickr.com/3575/3339069122_508d9effb0_b.jpg",
     "imageAlt": "Taken from my porch"
-  }
+  },
 ];
