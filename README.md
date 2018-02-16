@@ -1,18 +1,21 @@
-Emergency Kitten!
+Emergency Raccoon!
 =================
 
-This is the code behind <http://www.emergencykitten.com/>. It's an HTML page
-with some JavaScript. Because kittens are simple like that.
+This is the code behind <http://www.emergencyraccoon.com/>. It's an HTML page
+with some JavaScript. Because trash pandas are simple like that.
 
+This is a fork of rgrove's "emergency kitten".  https://github.com/rgrove/emergencykitten
+
+I claim no responsibility for the code here, it's all his with extremely minor modifications.
 
 Installing
 ----------
 
 1. Clone this git repo (fork it first if you plan to make changes).
 
-        $ git clone git://github.com/rgrove/emergencykitten.git
+        $ git clone git://github.com/trekkie1701c/emergencyraccoon.git
 
-2. Open `index.html` in a browser and you should see Emergency Kitten!
+2. Open `index.html` in a browser and you should see Emergency Raccoon!
 
 
 License
